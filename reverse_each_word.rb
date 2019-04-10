@@ -3,3 +3,4 @@ def reverse_each_word(sentence1)
   reversed << word
 end
 reversed.join(" ")
+end
